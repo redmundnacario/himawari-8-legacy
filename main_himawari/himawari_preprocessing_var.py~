@@ -1,0 +1,6 @@
+import numpy as N
+
+BTD_BT_lista = N.array(["CTH1", "CTH2", "CTH3", "CTH4", "CTH5", "COT1", "COT2",\
+                "CP", "CWP1",  "CWP2"])
+BTD_BT_listb = ["CTH1", "CTH2", "CTH3", "CTH4", "CTH5", "COT1", "COT2",\
+                "CP", "CWP1",  "CWP2"]
